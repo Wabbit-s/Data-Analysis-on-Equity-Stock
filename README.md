@@ -35,17 +35,8 @@ To replicate and explore this project, follow these steps:
 3. Run the Python script to collect and analyze the stock data.
 4. Open the Jupyter Notebook or the IBM Watson Studio notebook to visualize the results and explore the interactive dashboard.
 
-## Contributions
-
-Contributions to the project are welcome. If you find any bugs or have ideas for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](link_to_license).
-
 ## Acknowledgments
 
 We would like to express our gratitude to the developers of Beautiful Soup, Pandas, NumPy, and IBM Watson Studio for providing the tools and libraries that made this project possible.
 
----
-*Note: Include the appropriate links for the license and the image or gif used in the description.*
+------
